@@ -4,7 +4,9 @@ Firstly, thankyou for taking the time to read this readme and (hopefully) play m
 
 LotV v0.2 was developped over the course of about 3 days. It's my first real project, and I'm fairly proud of it.
 
-The game is now in .exe form! Double-click, and it should install python & pygame for you.
+The game is now in .exe form! Take the entire exe.win-2.7 folder and use the Dungeon2 executable within that folder.
+If you do not already have Python and Pygame, do NOT use LegendofTheVillage0.2.py.
+Double-click, and it should install python & pygame for you.
 If not, contact me.
 
 Other than that, you should just be able to run the game without a problem.
